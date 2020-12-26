@@ -1,0 +1,9 @@
+# GENERATED
+node_modules/
+dist/
+.idea/
+package-lock.json
+
+# PRIVATE
+.env
+config.json
